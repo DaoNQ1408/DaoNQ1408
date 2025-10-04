@@ -9,7 +9,7 @@ Web Developer
 * 🚀  I'm currently working on [EXE Team Management](http://exe-teamup.edu.vn)
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhsYXR5djRwbDNrbmQ0aHVrMXMyZHh1b21zMHJ6eXYzOHJobzE0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SUREsnI6v55CM/giphy.gif" width="600">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWcydzd4cmN0enpzaXJrdWsxY25jeTF2dTBrMHgycjRzeGRuMTVuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9wPdkThJtbAwo/giphy.gif" width="600">
 </p>
 
 
