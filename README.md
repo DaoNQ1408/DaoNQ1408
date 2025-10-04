@@ -16,8 +16,11 @@ Web Developer
 
 <p align="left"> <a href="https://www.github.com/DaoNQ1408" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/nguyen-quang-dao-a16909298" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/DaoNQ1408"><img src="https://github-readme-stats.vercel.app/api?username=DaoNQ1408&show_icons=true&theme=chartreuse-dark" alt="DaoNQ1408's GitHub stats" /></a>
+
+### My Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaoNQ1408&repo=sba-workshop&show_owner=true&theme=chartreuse-dark)](https://github.com/DaoNQ1408/sba-workshop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=exe-teamup&repo=Back-End&show_owner=true&theme=chartreuse-dark)](https://github.com/exe-teamup/Back-End)
+
