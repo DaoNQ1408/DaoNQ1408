@@ -8,10 +8,6 @@ Web Developer
 * ✉️  You can contact me at [nguyenquangdao1408@gmail.com](mailto:nguyenquangdao1408@gmail.com)
 * 🚀  I'm currently working on [EXE Team Management](http://exe-teamup.edu.vn)
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWcydzd4cmN0enpzaXJrdWsxY25jeTF2dTBrMHgycjRzeGRuMTVuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9wPdkThJtbAwo/giphy.gif" width="600">
-</p>
-
 ### Tools & Frameworks
 
 <p align="left">
