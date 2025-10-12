@@ -22,7 +22,7 @@ Web Developer
 <a href="http://www.github.com/DaoNQ1408"><img src="https://github-readme-stats.vercel.app/api?username=DaoNQ1408&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="DaoNQ1408's GitHub stats" /></a>
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaoNQ1408&theme=chartreuse-dark&count_private=true)](https://github.com/DaoNQ1408)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaoNQ1408&stats_format=bytes&theme=chartreuse-dark&count_private=true)](https://github.com/DaoNQ1408)
 
 ### My Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaoNQ1408&repo=sba-assignment&show_owner=true&theme=chartreuse-dark)](https://github.com/DaoNQ1408/sba-assignment)
