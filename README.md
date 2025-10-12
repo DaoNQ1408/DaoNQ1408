@@ -25,5 +25,5 @@ Web Developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaoNQ1408&stats_format=bytes&theme=chartreuse-dark&count_private=true)](https://github.com/DaoNQ1408)
 
 ### My Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaoNQ1408&repo=sba-workshop&show_owner=true&theme=chartreuse-dark)](https://github.com/DaoNQ1408/sba-workshop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaoNQ1408&repo=sba-assignment&show_owner=true&theme=chartreuse-dark)](https://github.com/DaoNQ1408/sba-assignment)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=exe-teamup&repo=Back-End&show_owner=true&theme=chartreuse-dark)](https://github.com/exe-teamup/Back-End)
