@@ -21,8 +21,10 @@ Web Developer
 ### My GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats-sandy.vercel.app?user=DaoNQ1408&theme=github-dark&fire=67327E)](https://git.io/streak-stats)
 
+
 ### Top Languages
 [![Top Langs](https://github-readme-stats-three-psi-88.vercel.app/api/top-langs/?username=DaoNQ1408&stats_format=bytes&theme=chartreuse-dark&count_private=true&border_color=39D353)](https://github.com/DaoNQ1408)
+
 
 ### My Repositories
 [![Readme Card](https://github-readme-stats-three-psi-88.vercel.app/api/pin/?username=DaoNQ1408&repo=sba-assignment&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/sba-assignment)
