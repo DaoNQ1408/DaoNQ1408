@@ -20,13 +20,13 @@ Web Developer
 <p align="left"> <a href="https://www.github.com/DaoNQ1408" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/nguyen-quang-dao-a16909298" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
 ### My GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats-sandy.vercel.app?user=DaoNQ1408&theme=github-dark&fire=67327E)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-taupe-iota.vercel.app?user=DaoNQ1408&theme=github-dark&fire=67327E)](https://git.io/streak-stats)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats-three-psi-88.vercel.app/api/top-langs/?username=DaoNQ1408&stats_format=bytes&theme=chartreuse-dark&count_private=true&border_color=39D353)](https://github.com/DaoNQ1408)
+[![Top Langs](https://github-readme-stats-ashen-ten-66.vercel.app/api/top-langs/?username=DaoNQ1408&stats_format=bytes&theme=chartreuse-dark&count_private=true&border_color=39D353)](https://github.com/DaoNQ1408)
 
 ### My Repositories
-[![Readme Card](https://github-readme-stats-three-psi-88.vercel.app/api/pin/?username=DaoNQ1408&repo=sba-assignment&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/sba-assignment)
-[![Readme Card](https://github-readme-stats-three-psi-88.vercel.app/api/pin/?username=DaoNQ1408&repo=sba-mindmap-BE&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/sba-mindmap-BE)
-[![Readme Card](https://github-readme-stats-three-psi-88.vercel.app/api/pin/?username=exe-teamup&repo=Back-End&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/exe-teamup/Back-End)
-[![Readme Card](https://github-readme-stats-three-psi-88.vercel.app/api/pin/?username=DaoNQ1408&repo=hsf-assignment&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/hsf-assignment)
+[![Readme Card](https://github-readme-stats-ashen-ten-66.vercel.app/api/pin/?username=DaoNQ1408&repo=sba-assignment&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/sba-assignment)
+[![Readme Card](https://github-readme-stats-ashen-ten-66.vercel.app/api/pin/?username=DaoNQ1408&repo=sba-mindmap-BE&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/sba-mindmap-BE)
+[![Readme Card](https://github-readme-stats-ashen-ten-66.vercel.app/api/pin/?username=exe-teamup&repo=Back-End&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/exe-teamup/Back-End)
+[![Readme Card](https://github-readme-stats-ashen-ten-66.vercel.app/api/pin/?username=DaoNQ1408&repo=hsf-assignment&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/hsf-assignment)
