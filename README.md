@@ -25,6 +25,9 @@ Web Developer
 ### Top Languages
 [![Top Langs](https://github-readme-stats-ashen-ten-66.vercel.app/api/top-langs/?username=DaoNQ1408&stats_format=bytes&theme=chartreuse-dark&count_private=true&border_color=39D353)](https://github.com/DaoNQ1408)
 
+### Project Setup
+[![Readme Card](https://github-readme-stats-ashen-ten-66.vercel.app/api/pin/?username=DaoNQ1408&repo=spring-boot-setup&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/spring-boot-setup)
+
 ### My Repositories
 [![Readme Card](https://github-readme-stats-ashen-ten-66.vercel.app/api/pin/?username=DaoNQ1408&repo=sba-assignment&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/sba-assignment)
 [![Readme Card](https://github-readme-stats-ashen-ten-66.vercel.app/api/pin/?username=DaoNQ1408&repo=sba-mindmap-BE&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/sba-mindmap-BE)
