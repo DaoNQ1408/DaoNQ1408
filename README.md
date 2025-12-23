@@ -6,7 +6,7 @@ Web Developer
  
 * 🌍  I'm based in Ho Chi Minh, Viet Nam <img src="https://flagcdn.com/16x12/vn.png"> <img src="https://flagcdn.com/16x12/vn.png"> <img src="https://flagcdn.com/16x12/vn.png">
 * ✉️  You can contact me at [nguyenquangdao1408@gmail.com](mailto:nguyenquangdao1408@gmail.com)
-* 🚀  I'm currently learning [Go](https://github.com/DaoNQ1408/learn-go) and [Flutter](https://github.com/DaoNQ1408/learn-flutter)
+* 🚀  I'm currently working on a project called [Scout-Game](https://github.com/DaoNQ1408/scout-game) 
 
 
 ### Tools & Frameworks
@@ -25,5 +25,7 @@ Web Developer
 ### Top Languages
 [![Top Langs](https://github-readme-stats-ashen-ten-66.vercel.app/api/top-langs/?username=DaoNQ1408&layout=compact&stats_format=bytes&theme=chartreuse-dark&count_private=true&border_color=39D353&hide=javascript,html,PHP,CMake&langs_count=8)](https://github.com/DaoNQ1408)
 
-### Project Setup
+### Projects
 [![Readme Card](https://github-readme-stats-ashen-ten-66.vercel.app/api/pin/?username=DaoNQ1408&repo=spring-boot-setup&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/spring-boot-setup)
+
+[![Readme Card](https://github-readme-stats-ashen-ten-66.vercel.app/api/pin/?username=DaoNQ1408&repo=spring-boot-setup&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/scout-game)
