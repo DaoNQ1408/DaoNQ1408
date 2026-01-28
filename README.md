@@ -30,4 +30,4 @@ Web Developer
 ### Projects
 [![Readme Card](https://github-readme-stats-ashen-ten-66.vercel.app/api/pin/?username=DaoNQ1408&repo=spring-boot-setup&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/spring-boot-setup)
 
-[![Readme Card](https://github-readme-stats-ashen-ten-66.vercel.app/api/pin/?username=DaoNQ1408&repo=scout-game&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/scout-game)
+[![Readme Card](https://github-readme-stats-ashen-ten-66.vercel.app/api/pin/?username=DaoNQ1408&repo=scout-game&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/scout-game-java)
