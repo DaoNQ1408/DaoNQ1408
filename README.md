@@ -26,8 +26,3 @@ Web Developer
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats-ashen-ten-66.vercel.app/api/top-langs/?username=DaoNQ1408&layout=compact&stats_format=bytes&theme=chartreuse-dark&count_private=true&border_color=39D353&hide=javascript,html,PHP,CMake&langs_count=2)](https://github.com/DaoNQ1408)
-
-### Projects
-[![Readme Card](https://github-readme-stats-ashen-ten-66.vercel.app/api/pin/?username=DaoNQ1408&repo=spring-boot-setup&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/spring-boot-setup)
-
-[![Readme Card](https://github-readme-stats-ashen-ten-66.vercel.app/api/pin/?username=DaoNQ1408&repo=scout-game-java&show_owner=true&theme=chartreuse-dark&border_color=39D353)](https://github.com/DaoNQ1408/scout-game-java)
