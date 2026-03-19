@@ -8,7 +8,7 @@ Web Developer
  
 * 🌍  I'm based in Ho Chi Minh, Viet Nam <img src="https://flagcdn.com/16x12/vn.png"> <img src="https://flagcdn.com/16x12/vn.png"> <img src="https://flagcdn.com/16x12/vn.png">
 * ✉️  You can contact me at [nguyenquangdao1408@gmail.com](mailto:nguyenquangdao1408@gmail.com)
-* 🚀  I'm currently working on a project called [Scout-Game](https://github.com/DaoNQ1408/scout-game) 
+* 🚀  I'm currently working on a project called [Awesome Scout](https://github.com/DaoNQ1408/awesome-scout) 
 
 
 ### Tools & Frameworks
