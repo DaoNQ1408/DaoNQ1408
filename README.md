@@ -20,3 +20,6 @@ Web Developer
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats-ashen-ten-66.vercel.app/api/top-langs/?username=DaoNQ1408&layout=compact&stats_format=bytes&theme=chartreuse-dark&count_private=true&border_color=39D353&hide=html,PHP,CMake,CSS&langs_count=6)](https://github-readme-stats-ashen-ten-66.vercel.app/api/top-langs/?username=DaoNQ1408&layout=compact&stats_format=bytes&theme=chartreuse-dark&count_private=true&border_color=39D353&hide=html,PHP,CMake,CSS&langs_count=6)
+
+
+
